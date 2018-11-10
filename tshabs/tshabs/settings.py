@@ -25,7 +25,7 @@ SECRET_KEY = 'k&(x2_lz14&yq3)*m_5-+z-l1mgm=6ua&96jfn5c%z-5v^%+=^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.shaynetshabs.com']
 
 
 # Application definition
